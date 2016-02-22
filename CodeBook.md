@@ -7,5 +7,6 @@
 
 #Key Variables
 mean_std_data - data frame of mean and std related variables for combined datasets
+
 summary_data - data frame and grouped and summarized observations
 
